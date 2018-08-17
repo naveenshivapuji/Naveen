@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 41.918 s <<< FAILURE! - in TestSuite
+testValidLogin(com.actiTimeFramework.login.scripts.TestValidLogin)  Time elapsed: 0.077 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.actiTimeFramework.login.scripts.TestValidLogin.testValidLogin(TestValidLogin.java:21)
+

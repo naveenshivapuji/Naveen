@@ -6,7 +6,7 @@ public class Apparel {
 	String color;
 	char size;
 	
-	public Apparel(String type, String color, char size) {
+	Apparel(String type, String color, char size) {
 		
 		this.type = type;
 		this.color = color;

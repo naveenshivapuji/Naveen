@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7052" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7052" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:47Z">
+      <class name="com.actiTimeFramework.login.scripts.TestValidLogin">
+        <test-method status="PASS" signature="openactiTime()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="openactiTime" is-config="true" duration-ms="3825" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openactiTime -->
+        <test-method status="PASS" signature="testValidLogin()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="testValidLogin" duration-ms="3205" started-at="2018-08-13T14:50:44Z" finished-at="2018-08-13T14:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method status="PASS" signature="closeactiTime(org.testng.ITestResult)[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeactiTime" is-config="true" duration-ms="0" started-at="2018-08-13T14:50:47Z" finished-at="2018-08-13T14:50:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=TestValidLogin.testValidLogin()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeactiTime -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeDriver" is-config="true" duration-ms="2323" started-at="2018-08-13T14:50:47Z" finished-at="2018-08-13T14:50:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.actiTimeFramework.login.scripts.TestValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
