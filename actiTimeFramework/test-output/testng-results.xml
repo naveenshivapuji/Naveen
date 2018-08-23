@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7052" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:47Z">
+  <suite name="Default suite" duration-ms="7525" started-at="2018-08-21T08:28:25Z" finished-at="2018-08-21T08:28:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7052" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:47Z">
+    <test name="Default test" duration-ms="7525" started-at="2018-08-21T08:28:25Z" finished-at="2018-08-21T08:28:33Z">
       <class name="com.actiTimeFramework.login.scripts.TestValidLogin">
-        <test-method status="PASS" signature="openactiTime()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="openactiTime" is-config="true" duration-ms="3825" started-at="2018-08-13T14:50:40Z" finished-at="2018-08-13T14:50:44Z">
+        <test-method status="PASS" signature="openactiTime()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="openactiTime" is-config="true" duration-ms="4725" started-at="2018-08-21T08:28:25Z" finished-at="2018-08-21T08:28:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openactiTime -->
-        <test-method status="PASS" signature="testValidLogin()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="testValidLogin" duration-ms="3205" started-at="2018-08-13T14:50:44Z" finished-at="2018-08-13T14:50:47Z">
+        <test-method status="PASS" signature="testValidLogin()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="testValidLogin" duration-ms="2784" started-at="2018-08-21T08:28:30Z" finished-at="2018-08-21T08:28:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testValidLogin -->
-        <test-method status="PASS" signature="closeactiTime(org.testng.ITestResult)[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeactiTime" is-config="true" duration-ms="0" started-at="2018-08-13T14:50:47Z" finished-at="2018-08-13T14:50:47Z">
+        <test-method status="PASS" signature="closeactiTime(org.testng.ITestResult)[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeactiTime" is-config="true" duration-ms="2" started-at="2018-08-21T08:28:33Z" finished-at="2018-08-21T08:28:33Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeactiTime -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeDriver" is-config="true" duration-ms="2323" started-at="2018-08-13T14:50:47Z" finished-at="2018-08-13T14:50:49Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.actiTimeFramework.login.scripts.TestValidLogin@12c8a2c0]" name="closeDriver" is-config="true" duration-ms="2312" started-at="2018-08-21T08:28:33Z" finished-at="2018-08-21T08:28:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->

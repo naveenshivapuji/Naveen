@@ -30,5 +30,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/Basics"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Elements"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ProjectFIFA"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
